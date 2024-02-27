@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 const Nav = props => {
   return (
-    <div>Buri Buri</div>
+    <div>Buri Buri Cupcake</div>
   )
 }
 
