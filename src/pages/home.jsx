@@ -1,6 +1,8 @@
+import PopularCategories from "../components/PopularCatergories"
+
 const Home = () => {
     return (
-        <div>Home</div>
+        <div><PopularCategories /></div>
     )
 }
 
