@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #f8fffb !important;
+  overflow-x: hidden;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
